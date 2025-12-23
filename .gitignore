@@ -1,0 +1,25 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Agent state (optional, if you don’t want to track it)
+agent_state.json
+
+# Old scripts no longer needed
+agent.py
+test_refactor.py
+verify_tests.py
